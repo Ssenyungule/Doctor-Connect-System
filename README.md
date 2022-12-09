@@ -1,5 +1,6 @@
 # Doctor-connect-System
-# It was a group project
+![adminpg](https://user-images.githubusercontent.com/88632439/206696318-f1b3ab67-5aa2-4074-ad28-1e362b466d58.png)
+#This was a group project
 # Group Members
 1. OWEMBABAZI SHEENAH
 2. SSENYUNGULE HERBERT
